@@ -11,3 +11,7 @@
 th.modified, td.modified, .folder td:nth-child(2) {
     display: none;
 }
+
+navbar {
+    background: linear-gradient(to right, rgba(140, 209, 168, 0.588235), rgba(140, 209, 168, 0.3));
+}
