@@ -1,0 +1,44 @@
+[
+  {
+    "key": "photos LOCAL 888/animals/cat in a hat.png",
+    "modified": 1639470837371,
+    "size": 1572864,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "photos/animals/kitten_ball.png",
+    "modified": 1639215237371,
+    "size": 558080,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "photos/animals/elephants.png",
+    "modified": 1639215237372,
+    "size": 53248,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "photos/funny fall.gif",
+    "modified": 1634204037372,
+    "size": 13841203.2,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "photos/holiday.jpg",
+    "modified": 1637314437372,
+    "size": 87040,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "documents/letter chunks.doc",
+    "modified": 1638178437372,
+    "size": 491520,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  },
+  {
+    "key": "documents/export.pdf",
+    "modified": 1638178437372,
+    "size": 4404019.2,
+    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+  }
+]

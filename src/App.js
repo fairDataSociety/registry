@@ -1,4 +1,3 @@
-// import logo from './logo.svg';
 import './App.css';
 import FileBrowser, {Icons} from "react-keyed-file-browser";
 import {useEffect, useState} from "react";
@@ -27,38 +26,34 @@ function App() {
     }, []);
 
     return (
-        <div className="App row m-3">
+        <div className="App m-3">
             <h1 className="text-center">FairDataSociety Registry</h1>
-            <div className="col-8">
-                <FileBrowser
-                    canFilter={false}
-                    icons={Icons.FontAwesome(4)}
-                    // onSelectFile={true}
-                    onSelectFile={e => {
-                        console.log(e);
-                        setCurrentFile(e);
-                    }}
-                    // headerRenderer={() => {
-                    //     return <p>123123</p>;
-                    // }}
-                    // fileRenderer={()=>{
-                    // //file item
-                    //     return <p>777</p>;
-                    // }}
-                    detailRenderer={(e) => {
-                        return <></>;
+            <p><strong>Registry reference</strong>: 5bb2cd9d685a7d98866eb00782a29ec9e8d0384210b455497c29382e85493edc</p>
 
-                    }}
-                    files={files}
-                />
-            </div>
-            <div className="col-4 App-file-info">
-                <p>File information</p>
-                {!currentFile && <p>...</p>}
-                {currentFile && <div>
-                    <p><strong>Name</strong>: {getFileName(currentFile.key)}</p>
-                    <p className="App-file-reference"><strong>Reference</strong>: {currentFile.reference}</p>
-                </div>}
+            <div className="row">
+                <div className="col-8">
+                    <FileBrowser
+                        canFilter={false}
+                        icons={Icons.FontAwesome(4)}
+                        onSelectFile={e => {
+                            console.log(e);
+                            setCurrentFile(e);
+                        }}
+                        detailRenderer={(e) => {
+                            return <></>;
+
+                        }}
+                        files={files}
+                    />
+                </div>
+                <div className="col-4 App-file-info">
+                    <p>File information</p>
+                    {!currentFile && <p>...</p>}
+                    {currentFile && <div>
+                        <p><strong>Name</strong>: {getFileName(currentFile.key)}</p>
+                        <p className="App-file-reference"><strong>Reference</strong>: {currentFile.reference}</p>
+                    </div>}
+                </div>
             </div>
         </div>
     );
