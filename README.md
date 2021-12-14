@@ -30,4 +30,4 @@ Upload file updates with this command
 
 Download latest updates
 
-`node download.js'
+`node download.js`
