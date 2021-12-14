@@ -1,0 +1,13 @@
+.App-file-info {
+    margin-top: 4.5rem !important;
+    border-top: 2px solid lightgrey;
+    padding-top: 8px;
+}
+
+.App-file-reference {
+    overflow-wrap: break-word;
+}
+
+th.modified, td.modified, .folder td:nth-child(2) {
+    display: none;
+}
