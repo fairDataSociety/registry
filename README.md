@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# FairDataSociety Registry
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Registry is located here: https://registry.fairdatasociety.org/
 
-## Available Scripts
+Current registry reference is `5bb2cd9d685a7d98866eb00782a29ec9e8d0384210b455497c29382e85493edc`. 
 
-In the project directory, you can run:
+You can view the file
+content with site above or manually by receiving all actual content with FairOS
+command `pod receive 5bb2cd9d685a7d98866eb00782a29ec9e8d0384210b455497c29382e85493edc`
 
-### `yarn start`
+### How it works? 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+There is a FairOS user run by an organization. With this user created pod and json inside it. The file
+contains a list of references to various files from third-party providers. All of these files are stored in Swarm using
+FairOS. Knowing the reference file, any user can download it to his computer.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Registry management
 
-### `yarn test`
+```
+cd cmd
+yarn
+cp example.env .env
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Fill .env file with your credentials.
 
-### `yarn build`
+Upload file updates with this command
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`node upload.js`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Download latest updates
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+`node download.js'
