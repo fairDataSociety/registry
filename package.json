@@ -18,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "rm -r /home/ubuntu/www/registry.fairdatasociety.org && mv ./build /home/ubuntu/www/registry.fairdatasociety.org"
   },
   "eslintConfig": {
     "extends": [
