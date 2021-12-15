@@ -15,3 +15,12 @@ th.modified, td.modified, .folder td:nth-child(2) {
 navbar {
     background: linear-gradient(to right, rgba(140, 209, 168, 0.588235), rgba(140, 209, 168, 0.3));
 }
+
+.navbar-brand {
+    /*50 px*/
+    /*font-size: 3rem!important;*/
+}
+
+.App-brand {
+    vertical-align: text-top !important;
+}
