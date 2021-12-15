@@ -35,7 +35,7 @@ function App() {
                     <div className="container-fluid">
                         <a className="navbar-brand display-1" href="/">
                             <img src={logo} alt="" height={60} width={136} className="d-inline-block align-middle"/>
-                            &nbsp;<span className="mt-3 App-brand text-break align-middle display-5">Registry</span>
+                            &nbsp;<span className="mt-3 text-break align-middle display-5">Registry</span>
                         </a>
                     </div>
                 </nav>
