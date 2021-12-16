@@ -50,19 +50,19 @@ function App() {
                 </nav>
 
                 <div className="row m-3">
-                    <blockquote className="blockquote">
+                    <div>
                         <p>Liberate Data Directory is a compilation of references to public data stored on decentralized
                             storage. References are provided through community efforts and Fair Data Society offers no
                             guarantees about availability of the data or that the content of the data or its licensing
                             is
                             appropriate for any particular use case.</p>
-                    </blockquote>
 
-                    <p>
-                        <strong>Directory <a target="_blank"
-                                            href="https://github.com/fairDataSociety/fairOS-dfs">FairOS</a> reference</strong>: <span
-                        className="text-break">5bb2cd9d685a7d98866eb00782a29ec9e8d0384210b455497c29382e85493edc</span>
-                    </p>
+                        <p>
+                            <strong>Directory <a target="_blank"
+                                                 href="https://github.com/fairDataSociety/fairOS-dfs">FairOS</a> reference</strong>: <span
+                            className="text-break">5bb2cd9d685a7d98866eb00782a29ec9e8d0384210b455497c29382e85493edc</span>
+                        </p>
+                    </div>
 
                     <div className="col-8">
                         <FileBrowser
@@ -94,7 +94,7 @@ function App() {
                             <p className="text-break">
                                 <strong>Reference</strong>: {currentFile['reference-type'] === 'swarm' ?
                                 <a target="_blank"
-                                   href={`https://bee-0.gateway.ethswarm.org/bzz/${currentFile.reference}/`}>{currentFile.reference}</a> :
+                                   href={`https://bee-9.gateway.ethswarm.org/bzz/${currentFile.reference}/`}>{currentFile.reference}</a> :
                                 currentFile.reference}</p>
 
                             {currentFile.description && <p>
