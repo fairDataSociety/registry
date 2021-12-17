@@ -1,44 +1,56 @@
 [
   {
-    "key": "photos LOCAL 888/animals/cat in a hat.png",
+    "key": "Books/The-Book-of-Swarm.pdf",
     "modified": 1639470837371,
-    "size": 1572864,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "size": 15726634,
+    "description" : "The Book of Swarm.",
+    "reference-type": "swarm",
+    "reference": "a35f2441cf51bf36202fc68db488ee0e649434b38f1f2f9d02b9aa994cab69e7",
+    "license-information" : ""
   },
   {
-    "key": "photos/animals/kitten_ball.png",
+    "key": "Apps/Swarm/Chess on Swarm - for two players",
     "modified": 1639215237371,
-    "size": 558080,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "size": 0,
+    "description" : "Play chess with another player and state saved to Swarm.",
+    "reference-type": "swarm",
+    "reference": "8f56d76a4c61980232f36bbeb37d908cad80c0184b0fbab2fd75035aed2bd3cf",
+    "license-information" : ""
   },
   {
-    "key": "photos/animals/elephants.png",
-    "modified": 1639215237372,
-    "size": 53248,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "key": "Apps/Swarm/Etherchat",
+    "modified": 1639215237371,
+    "size": 0,
+    "description" : "Chat with friends ad-hoc.",
+    "reference-type": "swarm",
+    "reference": "585ce47e9af1bd0ed67bd09523517271a4c644c75532da4d0097aaf549bade9d",
+    "license-information" : ""
   },
   {
-    "key": "photos/funny fall.gif",
-    "modified": 1634204037372,
-    "size": 13841203.2,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "key": "Apps/Swarm/Quake 3 on Swarm",
+    "modified": 1639215237371,
+    "size": 0,
+    "description" : "Disclaimer: Includes violence. Shoot-them-up game, a blast from the past. Select skirmish.",
+    "reference-type": "swarm",
+    "reference": "2e805e4c38566d8351ccc4b255552632bf15d389d62e59939c3d6082dfcc263f",
+    "license-information" : "See https://github.com/nugaon/quakejs/tree/feat/swarm for information."
   },
   {
-    "key": "photos/holiday.jpg",
-    "modified": 1637314437372,
-    "size": 87040,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "key": "Random/Relaxation/Rubberduck.webp",
+    "modified": 1639215237371,
+    "size": 10850,
+    "description" : "Whenever you are having troubles coding.",
+    "reference-type": "swarm",
+    "reference": "ddca6c4e38b5ef03f04aee03b140c433b5fa7bf25a22a3d21c4ad58fa4501daa",
+    "license-information" : ""
   },
   {
-    "key": "documents/letter chunks.doc",
-    "modified": 1638178437372,
-    "size": 491520,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
-  },
-  {
-    "key": "documents/export.pdf",
-    "modified": 1638178437372,
-    "size": 4404019.2,
-    "reference": "e3f8008136cae4550bf14dbf62640e7011a92bfeabfb36b736c684c98f3999301639402745"
+    "key": "Swarm/bee_1.4.0_amd64.deb",
+    "modified": 1639215237371,
+    "size": 19212616,
+    "description" : "Bee 1.4.0 debian package, amd64 architecture.",
+    "reference-type": "swarm",
+    "reference": "afde752009139ce7fa9ae4b5bdf37bd3b4384d2d5f656eb2d4ebb230c6901bb6",
+    "license-information" : ""
   }
 ]
