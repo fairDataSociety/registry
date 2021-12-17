@@ -66,7 +66,7 @@ function App() {
 
                     <div className="col-8">
                         <FileBrowser
-                            canFilter={false}
+                            canFilter={true}
                             icons={Icons.FontAwesome(4)}
                             onSelectFile={e => {
                                 console.log(e);
