@@ -11,6 +11,15 @@ const username = process.env.FAIROS_UPLOAD_USERNAME;
 const password = process.env.FAIROS_UPLOAD_PASSWORD;
 console.log('FairOS url', url);
 
+let command = '';
+let seed = '';
+if (process.argv.length === 4 && process.argv[2] === 'import') {
+    command = 'import';
+    seed = process.argv[3];
+}
+
+console.log('command', command);
+
 async function run() {
     const fairOS = new FairOS(url);
 
@@ -34,4 +43,15 @@ async function run() {
     console.log(data);
 }
 
-run().then();
+async function importUser() {
+    const fairOS = new FairOS(url);
+
+    let data = (await fairOS.userImport(username, password, seed)).data;
+    console.log(data);
+}
+
+if (command === 'import') {
+    importUser().then();
+} else {
+    run().then();
+}
