@@ -51,14 +51,18 @@ function App() {
 
                 <div className="row m-3">
                     <div>
-                        <p>Liberate Data Directory is a compilation of references to public data stored on decentralized
-                            storage. References are provided through community efforts and Fair Data Society offers no
-                            guarantees about availability of the data or that the content of the data or its licensing
-                            is
-                            appropriate for any particular use case.</p>
+                        <p> Liberate Data Directory is a compilation of references to public data stored on decentralized
+                            storage.
+                        </p>
 
-                            <p>Join the <a target="_blank"
-                                                 href="https://discord.gg/KrVTmahcUA">Fair Data Society Discord</a> and use the #liberate-data-directory channel to gain more information and support</p>
+                        <p> References are provided through community efforts and Fair Data Society offers no guarantees
+                            about availability of the data or that the content of the data or its licensing is
+                            appropriate for any particular use case.
+                        </p>
+
+                        <p> Join the <a target="_blank"
+                                                 href="https://discord.gg/KrVTmahcUA">Fair Data Society Discord</a> and use the #liberate-data-directory channel to gain more information and support.
+                        </p>
 
                         <p>
                             <strong>Directory <a target="_blank"
