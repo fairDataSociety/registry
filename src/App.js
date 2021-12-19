@@ -57,6 +57,9 @@ function App() {
                             is
                             appropriate for any particular use case.</p>
 
+                            <p>Join the <a target="_blank"
+                                                 href="https://discord.gg/KrVTmahcUA">Fair Data Society Discord</a> and use the #liberate-data-directory channel to gain more information and support</p>
+
                         <p>
                             <strong>Directory <a target="_blank"
                                                  href="https://github.com/fairDataSociety/fairOS-dfs">FairOS</a> reference</strong>: <span

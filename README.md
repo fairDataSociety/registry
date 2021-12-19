@@ -28,6 +28,8 @@ If you know of a public dataset stored in decentralized storage listed above, yo
 
 An editor will review the pull request and process it.
 
+Alternatively, join the [Fair Data Society Discord](https://discord.gg/KrVTmahcUA) and use the #liberate-data-directory channel to gain more information and support.
+
 ## How does it works?
 
 A FairOS user is run by an organization. This user creates a FairOS pod and puts files.json inside it. The file contains a list
