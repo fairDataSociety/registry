@@ -52,5 +52,14 @@
     "reference-type": "swarm",
     "reference": "afde752009139ce7fa9ae4b5bdf37bd3b4384d2d5f656eb2d4ebb230c6901bb6",
     "license-information" : ""
+  },
+  {
+    "key": "Maps/Switzerland.pod",
+    "modified": 164002947800,
+    "size": 660734584 ,
+    "description" : "FairOS pod with Switzerland map. To display the map, it is possible to use the Galileo project.",
+    "reference-type": "fairos-dfs",
+    "reference": "64277c528aec1268d435d1255cf20ea31f90220f35a273be0f2be4450ba8fb61",
+    "license-information" : ""
   }
 ]
