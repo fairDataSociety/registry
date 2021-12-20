@@ -32,8 +32,12 @@ async function run() {
     data = (await fairOS.podSync(pod)).data;
     console.log(data);
 
-    data = (await fairOS.fileDelete(pod, '/' + podFile)).data;
-    console.log(data);
+    try {
+        data = (await fairOS.fileDelete(pod, '/' + podFile)).data;
+        console.log(data);
+    } catch (e) {
+        console.log('file not deleted');
+    }
 
     const formData = new FormData();
     const file = new File([fs.readFileSync(localFile)], podFile);
