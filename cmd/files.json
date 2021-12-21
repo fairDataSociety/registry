@@ -62,4 +62,172 @@
     "reference": "64277c528aec1268d435d1255cf20ea31f90220f35a273be0f2be4450ba8fb61",
     "license-information" : ""
   }
+  ,{
+    "key": "Books/SamanthaInEuropeHolley.epub",
+    "modified": 1640119882241,
+    "size": 477078,
+    "reference-type": "swarm",
+    "reference": "9cde68b5b633264e78c9acb57f3536fc24b93d9df0f015dccce4d2f1252b3a0c",
+    "description": "Public Domain Book: SamanthaInEuropeHolley"
+  },
+  {
+    "key": "Books/LittleWomenAlcott.epub",
+    "modified": 1640119882241,
+    "size": 528306,
+    "reference-type": "swarm",
+    "reference": "5ac88bfd6699f76bfa184dc5ce39358c6449eb09e751fdc12d7c0d00a988b264",
+    "description": "Public Domain Book: LittleWomenAlcott"
+  },
+  {
+    "key": "Books/MetamorphosisKafka.epub",
+    "modified": 1640119882241,
+    "size": 97727,
+    "reference-type": "swarm",
+    "reference": "161798b66bf8cf21813159d52f0fd2631cc360c6937ae19d4b3e8e30f717ecd2",
+    "description": "Public Domain Book: MetamorphosisKafka"
+  },
+  {
+    "key": "Books/ThePrinceMachiavelli.epub",
+    "modified": 1640119882241,
+    "size": 195001,
+    "reference-type": "swarm",
+    "reference": "6676234ebe011f4c10ad7edd9df4bad58f7e3f27450c2064c71ca120fba7c16e",
+    "description": "Public Domain Book: ThePrinceMachiavelli"
+  },
+  {
+    "key": "Books/HeartofDarknessConrad.epub",
+    "modified": 1640119882241,
+    "size": 143274,
+    "reference-type": "swarm",
+    "reference": "9ecec4fabba9d72a6ba6031c96a9510a77d56b9085d5ca0a78fcbb2454cd6664",
+    "description": "Public Domain Book: HeartofDarknessConrad"
+  },
+  {
+    "key": "Books/PrideandPrejudiceAusten.epub",
+    "modified": 1640119882241,
+    "size": 577117,
+    "reference-type": "swarm",
+    "reference": "8a96d131d738f0cdf3a5ad162eca5f9f2b1d7b86d8794c85a5b3adfe81f4c6c6",
+    "description": "Public Domain Book: PrideandPrejudiceAusten"
+  },
+  {
+    "key": "Books/UpsideDownTuttle.epub",
+    "modified": 1640119882241,
+    "size": 78085,
+    "reference-type": "swarm",
+    "reference": "902731ed2cb71ebb9d4bc53c30c25f6998cb47bb391e58f3a983490d8cb13b09",
+    "description": "Public Domain Book: UpsideDownTuttle"
+  },
+  {
+    "key": "Books/AnthemRand.epub",
+    "modified": 1640119882241,
+    "size": 93460,
+    "reference-type": "swarm",
+    "reference": "b5abfa987d50f80f24fea3e9d268c27cd0e3a933eaf7f806dbc2da8f9b575289",
+    "description": "Public Domain Book: AnthemRand"
+  },
+  {
+    "key": "Books/DraculaStoker.epub",
+    "modified": 1640119882241,
+    "size": 395635,
+    "reference-type": "swarm",
+    "reference": "fa0a82670d811f4c9942e230d04fe482663fd42e5d37d1709f81d89a6ff7068a",
+    "description": "Public Domain Book: DraculaStoker"
+  },
+  {
+    "key": "Books/TheAdventuresofSherlockHolmesDoyle.epub",
+    "modified": 1640119882241,
+    "size": 277064,
+    "reference-type": "swarm",
+    "reference": "53d0f15c3cacbfadffdfb8ec56734652005927ad06f27aef6c024167c9408890",
+    "description": "Public Domain Book: TheAdventuresofSherlockHolmesDoyle"
+  },
+  {
+    "key": "Books/AChristmasCarolDickens.epub",
+    "modified": 1640119882241,
+    "size": 1062137,
+    "reference-type": "swarm",
+    "reference": "7825dc136da845de2c07cfbf2360b46bb6e891ea019038e6e4cffa02d26125c3",
+    "description": "Public Domain Book: AChristmasCarolDickens"
+  },
+  {
+    "key": "Books/LeviathanHobbes.epub",
+    "modified": 1640119882241,
+    "size": 592679,
+    "reference-type": "swarm",
+    "reference": "b597aa755b59a755c4b51342b40c8b8d7017418ee7295d88f5550c30f35a3854",
+    "description": "Public Domain Book: LeviathanHobbes"
+  },
+  {
+    "key": "Books/SomeChristmasStoriesDickens.epub",
+    "modified": 1640119882241,
+    "size": 109664,
+    "reference-type": "swarm",
+    "reference": "b6f3764101fb8dbb420c5ba613b656a06ccb9cb87eb855072d78b4eb4f8190bb",
+    "description": "Public Domain Book: SomeChristmasStoriesDickens"
+  },
+  {
+    "key": "Books/UlyssesJoyce.epub",
+    "modified": 1640119882241,
+    "size": 1501635,
+    "reference-type": "swarm",
+    "reference": "7f79afcf90002ff08233d1733b47468473bc5476dc4df44be16dc421a8447413",
+    "description": "Public Domain Book: UlyssesJoyce"
+  },
+  {
+    "key": "Books/PeterPanBarrie.epub",
+    "modified": 1640119882241,
+    "size": 167667,
+    "reference-type": "swarm",
+    "reference": "a4860a311299d07067262cd9c67e727d33df9e7bbebf93c44793006bb60130c1",
+    "description": "Public Domain Book: PeterPanBarrie"
+  },
+  {
+    "key": "Books/MobyDickMelville.epub",
+    "modified": 1640119882241,
+    "size": 598047,
+    "reference-type": "swarm",
+    "reference": "3a8c8610b0e0f4c3b043f56488a243f243f47078ea264c4cb8f4662d9f202d71",
+    "description": "Public Domain Book: MobyDickMelville"
+  },
+  {
+    "key": "Books/InAYellowWoodVidal.epub",
+    "modified": 1640119882241,
+    "size": 420963,
+    "reference-type": "swarm",
+    "reference": "f4343e1a693f786001f2f981d80150b0cb77890f9f30bc43645b07bb9d543b29",
+    "description": "Public Domain Book: InAYellowWoodVidal"
+  },
+  {
+    "key": "Books/TheLostWorldDoyle.epub",
+    "modified": 1640119882241,
+    "size": 225058,
+    "reference-type": "swarm",
+    "reference": "7d1b363d0f1efef8dc6fd68eb5dcd911f717c8a58d2181ef18250658c2b08cd3",
+    "description": "Public Domain Book: TheLostWorldDoyle"
+  },
+  {
+    "key": "Books/TheGreatGatsbyFitzgerald.epub",
+    "modified": 1640119882241,
+    "size": 358406,
+    "reference-type": "swarm",
+    "reference": "e6da4ee0451db2ac6e640e2c7a5ffa86349055def978c1aec510ca0839dc3623",
+    "description": "Public Domain Book: TheGreatGatsbyFitzgerald"
+  },
+  {
+    "key": "Books/TheOdysseyHomer.epub",
+    "modified": 1640119882241,
+    "size": 441694,
+    "reference-type": "swarm",
+    "reference": "c99853692e99009983ea79809bd8bfb12775336bcb221fe4445c44e5d81666b8",
+    "description": "Public Domain Book: TheOdysseyHomer"
+  },
+  {
+    "key": "Books/CrimeandPunishmentDostoyevsky.epub",
+    "modified": 1640119882241,
+    "size": 554373,
+    "reference-type": "swarm",
+    "reference": "39d81f96f8db385b48cf1b314f4617317c6111edf64da3dc0326cb4ef817c85e",
+    "description": "Public Domain Book: CrimeandPunishmentDostoyevsky"
+  }
 ]
