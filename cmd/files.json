@@ -439,5 +439,14 @@
     "reference": "39d81f96f8db385b48cf1b314f4617317c6111edf64da3dc0326cb4ef817c85e",
     "license-information" : "Public Domain Use",
     "description": "Public Domain Book: Crime and Punishment by Fyodor Dostoyevsky"
+  },
+  {
+    "key": "Documents/CrimeandPunishmentDostoyevsky.epub",
+    "modified": 1640119882241,
+    "size": 2390283,
+    "reference-type": "swarm",
+    "reference": "0eaeb1f5c73ef246e4eb6c78bd3516dc6b28ad5797c5b74b90975730024fc6a8",
+    "license-information" : "",
+    "description": "WAM Hackathon Onepager"
   }
 ]
